@@ -11,6 +11,8 @@ This theme is built using [Lush](https://github.com/rktjmp/lush.nvim), a Neovim 
 - Supports Neovim's built-in syntax highlighting
 - Compatible with Tree-Sitter and LSP
 
+![Screenshot of example code in Neovim using the Daemon-MK2-Neovim theme](/Daemon-mk2-neovim-screenshot.png)
+
 ## Requirements
 
 - Neovim 0.5 or later
@@ -96,7 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by [Daemon mk2 KDE Theme](https://github.com/MathisP75/daemon-kde-mk2)
 - Built with [Lush](https://github.com/rktjmp/lush.nvim)
 
-
 ## AI Disclosure
+
 The initial creation of this theme was done by a human, the conversion into a useable plugin, and the creation of this README was performed by AI.
 If any errors are found, please open an issue, and I will take care of it.
