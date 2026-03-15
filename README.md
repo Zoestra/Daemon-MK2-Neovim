@@ -100,5 +100,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## AI Disclosure
 
-The initial creation of this theme was done by a human, the conversion into a useable plugin, and the creation of this README was performed by AI.
+The initial creation of this theme was done by me, the creation of this README was performed by AI.
 If any errors are found, please open an issue, and I will take care of it.
