@@ -15,7 +15,7 @@ This theme is built using [Lush](https://github.com/rktjmp/lush.nvim), a Neovim 
 
 ## Requirements
 
-- Neovim 0.5 or later
+- Neovim 0.7 or later
 - [lush.nvim](https://github.com/rktjmp/lush.nvim)
 
 ## Installation
